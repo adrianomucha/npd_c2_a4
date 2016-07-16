@@ -1,0 +1,9 @@
+data:
+  - first_name: billy
+    last_name: kid
+    month: 6
+    year: 2012
+    movie: Man in black
+  - first_name: anthonie
+    last_name: sevoir
+
