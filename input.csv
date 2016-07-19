@@ -1,4 +1,4 @@
-first_name,last_name,month,year,color,movie
-bob, smith,1,1900,blue,the wind
-janme,m,12,1998,white,the smiths
-jimbo,seven,1898,red,star wars
+first_name,last_name,month,year,movie
+bob,smith,1,1900,gone with the wind
+jane,m,12,1984,the smiths
+jim,t,11,1950,hates movies
